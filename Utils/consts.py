@@ -1,0 +1,1 @@
+PARTITIONS = ['date', 'hour']
